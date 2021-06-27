@@ -10,8 +10,5 @@ public class Pessoa {
         }
         this.age = age;
     }
-
-
-
 }
 
